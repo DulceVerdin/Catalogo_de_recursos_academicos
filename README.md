@@ -80,4 +80,7 @@ El catálogo puede manejar diferentes tipos de recursos académicos, entre ellos
  Herramientas de software.add
 
  Proximas Mejoras
+
+ Tipos de Recursos
+
  
