@@ -77,4 +77,4 @@ El catálogo puede manejar diferentes tipos de recursos académicos, entre ellos
  Sitios web.
  Videos.
  Artículos.
- Herramientas de software.
+ Herramientas de software.add
