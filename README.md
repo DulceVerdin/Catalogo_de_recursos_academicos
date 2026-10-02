@@ -78,3 +78,6 @@ El catálogo puede manejar diferentes tipos de recursos académicos, entre ellos
  Videos.
  Artículos.
  Herramientas de software.add
+
+ Proximas Mejoras
+ 
