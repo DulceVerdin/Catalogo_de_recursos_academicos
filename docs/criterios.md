@@ -57,3 +57,15 @@ Permite identificar cuándo fue publicado o actualizado el recurso.
 Permite identificar el idioma en el que se encuentra disponible el recurso.
 
 Estos criterios permiten organizar los recursos y facilitar posteriormente su búsqueda y consulta.
+
+7. Palabras clave o etiquetas
+
+Permite asociar términos relevantes al recurso para facilitar su búsqueda y clasificación.
+
+Ejemplos: POO, estructuras de datos, inteligencia artificial, álgebra lineal.
+
+8. Formato de acceso
+
+Identifica cómo se presenta o distribuye el recurso.
+
+Ejemplos: PDF, libro físico, repositorio GitHub, curso en línea, video interactivo.
